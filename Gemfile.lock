@@ -147,7 +147,7 @@ GEM
       omniauth (~> 1.2)
     plek (4.0.0)
     public_suffix (4.0.6)
-    rack (2.2.3)
+    rack (2.2.6.2)
     rack-cache (1.12.1)
       rack (>= 0.4)
     rack-test (1.1.0)
@@ -221,7 +221,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  gds-api-adapters (= 59.6.0)
+  gds-api-adapters
   gds-sso
   govuk-content-schema-test-helpers
   govuk_app_config
